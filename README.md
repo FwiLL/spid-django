@@ -263,3 +263,7 @@ Authors
 
 - Giuseppe De Marco
 - Davide Brunato
+
+Fork Info
+------------
+Fork privato per testare la funzionalità su Django 4.1.5
